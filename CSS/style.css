@@ -1,0 +1,52 @@
+
+.ligne {
+    border-top: 1px solid gray;
+}
+
+.couleurrouge {
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.couleurbleu {
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.couleurvert {
+    color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rouge {
+    background-color: tomato;
+    font-family: cursive;
+}
+
+.bleu {
+    background-color: aquamarine;
+    font-family: cursive;
+}
+
+.vert {
+    background-color: goldenrod;
+    font-family: cursive;
+}
+
+.textefooter {
+    margin-left: 20%;
+    margin-top: -20px;
+}
+
+.texte {
+    font-size: 25px;
+}
+
+.texte2 {
+    font-size: 25px;
+    margin-left: 2.5%;
+}
+
+li > p {
+    margin: 0;
+}
